@@ -10,3 +10,6 @@ There are other techniques on machine learning interpretibility where we compare
 To train a good machine learning model you require good features. Creating good features requires in depth understanding of the raw data and how to transform into the most meaningful features via feature engineering. Some of the feature engineering techniques are captured in the following links:-
 - [Fundamental Techniques of Feature Engineering for Machine Learning](https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114)
 - [Feature Engineering for Machine Learning: A Comprehensive Overview](https://www.trainindatablog.com/feature-engineering-for-machine-learning-comprehensive-overview/)
+
+## Dimensionailty Reduction
+- PCA [A Step-by-Step Explanation of Principal Component Analysis (PCA)](https://builtin.com/data-science/step-step-explanation-principal-component-analysis)
