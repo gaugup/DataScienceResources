@@ -13,3 +13,6 @@ To train a good machine learning model you require good features. Creating good 
 
 ## Dimensionailty Reduction
 - PCA [A Step-by-Step Explanation of Principal Component Analysis (PCA)](https://builtin.com/data-science/step-step-explanation-principal-component-analysis)
+
+## Bias vs Variance
+- Bias-Variance Trade-Off in Machine Learning [link](https://machinelearningmastery.com/gentle-introduction-to-the-bias-variance-trade-off-in-machine-learning/)
