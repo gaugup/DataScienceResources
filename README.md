@@ -16,3 +16,6 @@ To train a good machine learning model you require good features. Creating good 
 
 ## Bias vs Variance
 - Bias-Variance Trade-Off in Machine Learning [link](https://machinelearningmastery.com/gentle-introduction-to-the-bias-variance-trade-off-in-machine-learning/)
+
+## Using pandas.cut method
+- All Pandas cut() you should know for transforming numerical data into categorical data [link](https://towardsdatascience.com/all-pandas-cut-you-should-know-for-transforming-numerical-data-into-categorical-data-1370cf7f4c4f)
