@@ -19,3 +19,7 @@ To train a good machine learning model you require good features. Creating good 
 
 ## Using pandas.cut method
 - All Pandas cut() you should know for transforming numerical data into categorical data [link](https://towardsdatascience.com/all-pandas-cut-you-should-know-for-transforming-numerical-data-into-categorical-data-1370cf7f4c4f)
+
+## Ensembling
+- A Comprehensive Guide to Ensemble Learning [link](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/)
+- Ensemble Methods in Machine Learning: What are They and Why Use Them? [link](https://towardsdatascience.com/ensemble-methods-in-machine-learning-what-are-they-and-why-use-them-68ec3f9fef5f)
