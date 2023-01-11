@@ -15,7 +15,7 @@ To train a good machine learning model you require good features. Creating good 
 - PCA [A Step-by-Step Explanation of Principal Component Analysis (PCA)](https://builtin.com/data-science/step-step-explanation-principal-component-analysis)
 
 ## Bias vs Variance
-- Bias-Variance Trade-Off in Machine Learning [link](https://machinelearningmastery.com/gentle-introduction-to-the-bias-variance-trade-off-in-machine-learning/)
+- Bias-Variance Trade-Off in Machine Learning [link](https://machinelearningmastery.com/gentle-introduction-to-the-bias-variance-trade-off-in-machine-learning/)<!-- markdown-link-check-disable-line -->
 
 ## Using pandas.cut method
 - All Pandas cut() you should know for transforming numerical data into categorical data [link](https://towardsdatascience.com/all-pandas-cut-you-should-know-for-transforming-numerical-data-into-categorical-data-1370cf7f4c4f)
