@@ -1,4 +1,4 @@
-[![CI](https://github.com/gaugup/DataScienceResources/actions/workflows/linkcheck.yml/badge.svg?branch=main)](https://github.com/gaugup/DataScienceResources/actions/workflows/linkcheck.yml)
+[![Link check](https://github.com/gaugup/DataScienceResources/actions/workflows/linkcheck.yml/badge.svg?branch=main)](https://github.com/gaugup/DataScienceResources/actions/workflows/linkcheck.yml)
 
 # DataScienceResources
 This repository houses some of the links which I found useful for data science and machine learning.
