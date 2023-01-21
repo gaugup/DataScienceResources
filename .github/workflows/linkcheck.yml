@@ -1,6 +1,6 @@
 # This is a basic workflow with link checks in md files
 
-name: CI
+name: Link check
 
 # Controls when the workflow will run
 on:
